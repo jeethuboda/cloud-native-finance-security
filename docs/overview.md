@@ -1,5 +1,4 @@
 # Overview
-Documentation Overview
 
 This document provides an overview of the Cloud-Native Finance Security Framework, an open-source initiative to enhance cybersecurity, compliance, and analytics in U.S. financial and insurance sectors. It aligns with the National Cybersecurity Strategy 2025, EO 14028, and CISA’s 2025-2026 Plan, addressing $16.6B in cybercrime losses (FBI IC3 2024) and $308.6B in insurance fraud (NAIC 2025).
 
