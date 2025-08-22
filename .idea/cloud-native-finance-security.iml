@@ -2,7 +2,21 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/services/compliance-engine/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/compliance-engine/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/compliance-engine/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/compliance-engine/src/test/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/event-driven-microservices/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/event-driven-microservices/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/event-driven-microservices/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/fraud-analytics/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/fraud-analytics/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/fraud-analytics/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/services/fraud-analytics/src/test/resources" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/services/event-driven-microservices/src/test" />
+      <excludeFolder url="file://$MODULE_DIR$/services/fraud-analytics/src/test" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
